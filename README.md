@@ -2,11 +2,9 @@
 # Create Chat application using socket-IO in  NodeJs server
 # Step by step using application:
 <ul>
-  <li>Thụt với đầu dòng 1</li>
-  <li>Thụt với đầu dòng 1</li>
+  <li>Open the folder project in Visual Code or any IDE</li>
+  <li>run SERVER.js file with node SERVER.js command</li>
+  <li>pen browser and access the address http://localhost:3000/</li>
   </ul>
-Open the folder project in Visual Code or any IDE
-# run SERVER.js file
-# open browser and access the address http://localhost:3000/
 
 <img src="https://uphinhnhanh.com/images/2018/10/04/Capture0987c.png">
